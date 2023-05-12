@@ -10,7 +10,7 @@ for (let i = 0; i < notas.length; i++) {
 // Vai somar todos os valores do array iniciando na posição 0 que nesse caso é 10 até o final do array e
 // vai ser armazenado esse valor na variável (somaDasNotas).
 
-    somaDasNotas+= notas[i]
+    somaDasNotas += notas[0]
 
 
     
