@@ -1,4 +1,4 @@
-const arrayNums = [1, 2, 3, 4]
+const arrayNums = [1, 2, 3, 4, 5, 6]
 
 const multiplicacaoDosNumeros = arrayNums.map((num) => num * 10); 
 
